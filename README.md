@@ -1,14 +1,14 @@
-#👋 Hi, I'm Sai Sushanth Sailla
+# 👋 Hi, I'm Sai Sushanth Sailla
 
-##AI/ML Enthusiast | Generative AI | NLP | Python
+## AI/ML Enthusiast | Generative AI | NLP | Python
 
-###💡 Turning data, language, and ideas into intelligent systems.
+### 💡 Turning data, language, and ideas into intelligent systems.
 
 I'm a Computer Science graduate specializing in Artificial Intelligence and Machine Learning, passionate about building intelligent applications and solving real-world problems using AI.
 
 I enjoy exploring how machines learn, how language models understand context, and how AI can automate everyday tasks.
 
-#🚀 About Me
+# 🚀 About Me
 
 B.Tech in Computer Science (AI & ML).
 Interested in Machine Learning, Deep Learning, Generative AI and Agentic AI.
